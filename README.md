@@ -11,6 +11,10 @@ Construyo productos web que combinan una experiencia cuidada con integraciones r
 
 ## Proyectos seleccionados
 
+### TallerPro
+
+Sistema integral para talleres mecánicos con Node.js, Express y MySQL. Centraliza clientes, vehículos, órdenes, diagnósticos, inventario, cotizaciones, aprobaciones y planeación operativa con autenticación por roles.
+
 ### NOCTRA Commerce
 
 E-commerce de moda con React, TypeScript, Stripe, Gemini y Cloudflare D1. Incluye checkout, webhooks, gestión de pedidos, captación de leads y un estilista asistido por IA.
@@ -25,7 +29,7 @@ Experiencia web responsive para restaurantes con reservas, menús de eventos, as
 
 ## Tecnologías
 
-`TypeScript` · `React` · `Next.js` · `PHP` · `SQLite` · `Stripe` · `Gemini` · `Cloudflare` · `HTML` · `CSS`
+`JavaScript` · `Node.js` · `Express` · `MySQL` · `TypeScript` · `React` · `Next.js` · `PHP` · `SQLite` · `Stripe` · `Gemini` · `Cloudflare` · `HTML` · `CSS`
 
 ## Principios
 
