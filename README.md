@@ -11,7 +11,7 @@ Construyo productos web que combinan una experiencia cuidada con integraciones r
 
 ## Proyectos seleccionados
 
-### TallerPro
+### [TallerPro](https://github.com/BryantFlores12/tallerpro)
 
 Sistema integral para talleres mecánicos con Node.js, Express y MySQL. Centraliza clientes, vehículos, órdenes, diagnósticos, inventario, cotizaciones, aprobaciones y planeación operativa con autenticación por roles.
 
