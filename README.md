@@ -1,49 +1,47 @@
-# Hola, soy Bryant 👋
+# Hola, soy Bryant
 
-Construyo productos web que combinan una experiencia cuidada con integraciones reales: pagos, automatización, inteligencia artificial y herramientas operativas.
+Soy desarrollador web y me gusta crear proyectos que resuelvan problemas reales. He trabajado con bases de datos, APIs, pagos en línea e inteligencia artificial, siempre buscando que cada proyecto sea funcional y fácil de entender.
 
 ## En qué trabajo
 
-- Comercio electrónico con Stripe y persistencia de pedidos.
-- Experiencias con IA conectadas de forma segura desde el servidor.
-- Aplicaciones PHP y SQLite fáciles de desplegar y mantener.
-- Proyectos documentados, personalizables y preparados para despliegue.
+- Aplicaciones web conectadas con bases de datos.
+- APIs y servicios para comunicar el frontend con el backend.
+- Integraciones con Stripe, Gemini y servicios de terceros.
+- Proyectos documentados para que sea fácil instalarlos, probarlos y seguir trabajando en ellos.
 
-## Proyectos seleccionados
+## Mis proyectos
 
 ### [TallerPro](https://github.com/BryantFlores12/tallerpro)
 
-Sistema integral para talleres mecánicos con Node.js, Express y MySQL. Centraliza clientes, vehículos, órdenes, diagnósticos, inventario, cotizaciones, aprobaciones y planeación operativa con autenticación por roles.
+TallerPro es un sistema web que desarrollé para administrar el trabajo diario de un taller mecánico. Permite manejar clientes, vehículos, órdenes de servicio, diagnósticos, inventario, cotizaciones y tareas desde una sola aplicación con distintos tipos de usuario.
 
 ### [NOCTRA Commerce](https://github.com/BryantFlores12/noctra-commerce)
 
-E-commerce de moda con React, TypeScript, Stripe, Gemini y Cloudflare D1. Incluye checkout, webhooks, gestión de pedidos, captación de leads y un estilista asistido por IA.
+NOCTRA es una tienda de moda en línea desarrollada con React y TypeScript. Conecté pagos con Stripe, almacenamiento de pedidos en Cloudflare D1 y un asistente de estilo con Gemini que recomienda productos disponibles dentro del catálogo.
 
-### [QR Scholarship & Meal Coupon System](https://github.com/BryantFlores12/qr-scholarship-system)
+### [Sistema de becas y cupones con QR](https://github.com/BryantFlores12/qr-scholarship-system)
 
-Sistema PHP y SQLite para registrar beneficiarios, generar cupones QR firmados, validar consumos y entregar documentos por PDF y correo.
+Es un sistema desarrollado con PHP y SQLite para registrar estudiantes, asignar apoyos de comida y generar cupones QR seguros. Los cupones se pueden validar una sola vez y también pueden enviarse en PDF por correo.
 
-### [AI Restaurant Website Template](https://github.com/BryantFlores12/restaurant-ai-template)
+### [Sitio web para restaurante con IA](https://github.com/BryantFlores12/restaurant-ai-template)
 
-Experiencia web responsive para restaurantes con reservas, menús de eventos, asistente local y una integración opcional con Gemini mediante proxy seguro.
+Es un sitio web adaptable para restaurantes que incluye menú, eventos, reservaciones y un asistente para responder preguntas. La inteligencia artificial se conecta con Gemini desde PHP para evitar que la clave quede expuesta en el navegador.
 
-## Colaboración
+## Proyecto colaborativo
 
-### [Proyecto colaborativo con Shaiel](https://github.com/shaiel634-pixel/Proyecto)
+### [Zarapito](https://github.com/shaiel634-pixel/Proyecto)
 
-Proyecto de equipo orientado a la gestión de un restaurante y la integración entre interfaz, servicios y API. El repositorio pertenece a Shaiel y actualmente requiere acceso; el enlace será visible para cualquier visitante cuando la persona propietaria lo haga público.
+Zarapito es un proyecto web para la gestión de un restaurante mexicano que desarrollamos en equipo. Mi participación se enfocó en conectar la base de datos MySQL con la aplicación hecha con JavaScript, HTML, CSS y Bootstrap. También trabajamos con Java para crear APIs REST que comunicaban la interfaz con los servicios del sistema.
+
+El repositorio pertenece a Shaiel y por ahora es privado, así que el enlace solo funciona para las personas que tienen acceso.
 
 ## Tecnologías
 
 `JavaScript` · `Node.js` · `Express` · `MySQL` · `TypeScript` · `React` · `Next.js` · `PHP` · `SQLite` · `Stripe` · `Gemini` · `Cloudflare` · `HTML` · `CSS`
 
-## Principios
+## Cómo trabajo
 
-- Secretos y credenciales fuera del navegador y del repositorio.
-- Documentación que permita instalar, probar y entregar el proyecto.
-- Interfaces responsive con atención al detalle.
-- Integraciones verificadas en el servidor y preparadas para producción.
-
----
-
-Actualmente estoy organizando aquí una selección de proyectos de producto, automatización e inteligencia artificial.
+- Mantengo las claves y credenciales fuera del navegador y del repositorio.
+- Documento lo necesario para instalar y probar cada proyecto.
+- Procuro que las interfaces funcionen bien en computadora y celular.
+- Las operaciones importantes se validan desde el servidor.
