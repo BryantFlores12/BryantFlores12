@@ -7,7 +7,7 @@ Construyo productos web que combinan una experiencia cuidada con integraciones r
 - Comercio electrónico con Stripe y persistencia de pedidos.
 - Experiencias con IA conectadas de forma segura desde el servidor.
 - Aplicaciones PHP y SQLite fáciles de desplegar y mantener.
-- Plantillas comerciales documentadas, personalizables y listas para entrega.
+- Proyectos documentados, personalizables y preparados para despliegue.
 
 ## Proyectos seleccionados
 
