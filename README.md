@@ -15,17 +15,23 @@ Construyo productos web que combinan una experiencia cuidada con integraciones r
 
 Sistema integral para talleres mecánicos con Node.js, Express y MySQL. Centraliza clientes, vehículos, órdenes, diagnósticos, inventario, cotizaciones, aprobaciones y planeación operativa con autenticación por roles.
 
-### NOCTRA Commerce
+### [NOCTRA Commerce](https://github.com/BryantFlores12/noctra-commerce)
 
 E-commerce de moda con React, TypeScript, Stripe, Gemini y Cloudflare D1. Incluye checkout, webhooks, gestión de pedidos, captación de leads y un estilista asistido por IA.
 
-### QR Scholarship & Meal Coupon System
+### [QR Scholarship & Meal Coupon System](https://github.com/BryantFlores12/qr-scholarship-system)
 
 Sistema PHP y SQLite para registrar beneficiarios, generar cupones QR firmados, validar consumos y entregar documentos por PDF y correo.
 
-### AI Restaurant Website Template
+### [AI Restaurant Website Template](https://github.com/BryantFlores12/restaurant-ai-template)
 
 Experiencia web responsive para restaurantes con reservas, menús de eventos, asistente local y una integración opcional con Gemini mediante proxy seguro.
+
+## Colaboración
+
+### [Proyecto colaborativo con Shaiel](https://github.com/shaiel634-pixel/Proyecto)
+
+Proyecto de equipo orientado a la gestión de un restaurante y la integración entre interfaz, servicios y API. El repositorio pertenece a Shaiel y actualmente requiere acceso; el enlace será visible para cualquier visitante cuando la persona propietaria lo haga público.
 
 ## Tecnologías
 
